@@ -5609,7 +5609,7 @@
     line-height: 0;
   }
   .header-right-inner .icon i {
-    color: #747681;
+    color: red;
     font-size: 20px;
     transition: 0.5s;
   }
